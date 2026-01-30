@@ -1,0 +1,25 @@
+2026-01-30 00:42:11,636 - INFO - Pipeline-Start initiiert.
+2026-01-30 00:42:11,636 - INFO - START: Ingestion
+2026-01-30 00:42:14,252 - ERROR - FAILURE: Ingestion (Exit Code: 1)
+2026-01-30 01:04:38,152 - INFO - Pipeline-Start initiiert.
+2026-01-30 01:04:38,152 - INFO - START: Ingestion
+2026-01-30 01:05:00,981 - INFO - SUCCESS: Ingestion (Dauer: 22.83s)
+2026-01-30 01:05:00,981 - INFO - START: Processing
+2026-01-30 01:07:21,001 - INFO - SUCCESS: Processing (Dauer: 140.02s)
+2026-01-30 01:07:21,001 - INFO - START: Storage
+2026-01-30 01:07:21,669 - INFO - SUCCESS: Storage (Dauer: 0.67s)
+2026-01-30 01:07:21,669 - INFO - Pipeline vollstaendig erfolgreich beendet.
+2026-01-30 02:47:14,206 - INFO - Pipeline-Start initiiert.
+2026-01-30 02:47:14,207 - INFO - START: Ingestion
+2026-01-30 02:47:14,386 - ERROR - FAILURE: Ingestion (Exit Code: 9009)
+2026-01-30 02:47:31,092 - INFO - Pipeline-Start initiiert.
+2026-01-30 02:47:31,093 - INFO - START: Ingestion
+2026-01-30 02:47:31,166 - ERROR - FAILURE: Ingestion (Exit Code: 2)
+2026-01-30 02:47:46,031 - INFO - Pipeline-Start initiiert.
+2026-01-30 02:47:46,031 - INFO - START: Ingestion
+2026-01-30 03:03:26,819 - INFO - SUCCESS: Ingestion (Dauer: 940.79s)
+2026-01-30 03:03:26,820 - INFO - START: Processing
+2026-01-30 03:49:16,070 - INFO - SUCCESS: Processing (Dauer: 2749.25s)
+2026-01-30 03:49:16,070 - INFO - START: Storage
+2026-01-30 03:49:16,811 - INFO - SUCCESS: Storage (Dauer: 0.74s)
+2026-01-30 03:49:16,812 - INFO - Pipeline erfolgreich beendet.

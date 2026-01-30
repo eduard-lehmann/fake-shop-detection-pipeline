@@ -1,0 +1,17 @@
+2026-01-12 17:05:08,178 - INFO - Pipeline-Start initiiert.
+2026-01-12 17:05:08,178 - INFO - START: Processing
+2026-01-12 17:05:08,346 - ERROR - FAILURE: Processing (Exit Code: 9009)
+2026-01-12 17:05:17,402 - INFO - Pipeline-Start initiiert.
+2026-01-12 17:05:17,403 - INFO - START: Processing
+2026-01-12 17:05:22,558 - INFO - SUCCESS: Processing (Dauer: 5.16s)
+2026-01-12 17:05:22,559 - INFO - START: AI-Export
+2026-01-12 17:05:23,358 - INFO - SUCCESS: AI-Export (Dauer: 0.80s)
+2026-01-12 17:05:23,358 - INFO - Pipeline vollständig erfolgreich beendet.
+2026-01-12 21:35:14,572 - INFO - Pipeline-Start initiiert.
+2026-01-12 21:35:14,572 - INFO - START: Ingestion
+2026-01-12 21:38:44,800 - INFO - SUCCESS: Ingestion (Dauer: 210.23s)
+2026-01-12 21:38:44,801 - INFO - START: Processing
+2026-01-12 21:43:16,787 - INFO - SUCCESS: Processing (Dauer: 271.99s)
+2026-01-12 21:43:16,787 - INFO - START: AI-Export
+2026-01-12 21:43:17,592 - INFO - SUCCESS: AI-Export (Dauer: 0.80s)
+2026-01-12 21:43:17,592 - INFO - Pipeline vollständig erfolgreich beendet.

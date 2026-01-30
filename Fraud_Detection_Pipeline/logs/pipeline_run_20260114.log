@@ -1,0 +1,32 @@
+2026-01-14 11:08:44,351 - INFO - Pipeline-Start initiiert.
+2026-01-14 11:08:44,351 - INFO - START: Ingestion
+2026-01-14 11:08:44,491 - ERROR - FAILURE: Ingestion (Exit Code: 9009)
+2026-01-14 11:08:49,681 - INFO - Pipeline-Start initiiert.
+2026-01-14 11:08:49,682 - INFO - START: Ingestion
+2026-01-14 11:12:36,366 - INFO - SUCCESS: Ingestion (Dauer: 226.68s)
+2026-01-14 11:12:36,367 - INFO - START: Processing
+2026-01-14 11:17:25,147 - INFO - SUCCESS: Processing (Dauer: 288.78s)
+2026-01-14 11:17:25,147 - INFO - START: AI-Export
+2026-01-14 11:17:25,957 - INFO - SUCCESS: AI-Export (Dauer: 0.81s)
+2026-01-14 11:17:25,958 - INFO - Pipeline vollständig erfolgreich beendet.
+2026-01-14 11:40:18,249 - INFO - Pipeline-Start initiiert.
+2026-01-14 11:40:18,250 - INFO - START: Ingestion
+2026-01-14 11:40:18,409 - ERROR - FAILURE: Ingestion (Exit Code: 9009)
+2026-01-14 11:40:31,088 - INFO - Pipeline-Start initiiert.
+2026-01-14 11:40:31,088 - INFO - START: Ingestion
+2026-01-14 11:44:11,000 - INFO - SUCCESS: Ingestion (Dauer: 219.91s)
+2026-01-14 11:44:11,001 - INFO - START: Processing
+2026-01-14 11:48:49,755 - INFO - SUCCESS: Processing (Dauer: 278.75s)
+2026-01-14 11:48:49,755 - INFO - START: AI-Export
+2026-01-14 11:48:50,549 - INFO - SUCCESS: AI-Export (Dauer: 0.79s)
+2026-01-14 11:48:50,550 - INFO - Pipeline vollständig erfolgreich beendet.
+2026-01-14 11:53:13,854 - INFO - Pipeline-Start initiiert.
+2026-01-14 11:53:13,855 - INFO - START: AI-Export
+2026-01-14 11:53:14,001 - ERROR - FAILURE: AI-Export (Exit Code: 9009)
+2026-01-14 11:53:15,830 - INFO - Pipeline-Start initiiert.
+2026-01-14 11:53:15,831 - INFO - START: AI-Export
+2026-01-14 11:53:15,979 - ERROR - FAILURE: AI-Export (Exit Code: 9009)
+2026-01-14 11:53:23,438 - INFO - Pipeline-Start initiiert.
+2026-01-14 11:53:23,439 - INFO - START: AI-Export
+2026-01-14 11:53:24,263 - INFO - SUCCESS: AI-Export (Dauer: 0.82s)
+2026-01-14 11:53:24,263 - INFO - Pipeline vollständig erfolgreich beendet.

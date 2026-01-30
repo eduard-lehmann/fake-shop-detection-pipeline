@@ -1,0 +1,12 @@
+2026-01-29 21:35:25,494 - INFO - Pipeline-Start initiiert.
+2026-01-29 21:35:25,494 - INFO - START: Processing
+2026-01-29 21:35:25,650 - ERROR - FAILURE: Processing (Exit Code: 9009)
+2026-01-29 21:35:53,094 - INFO - Pipeline-Start initiiert.
+2026-01-29 21:35:53,095 - INFO - START: Processing
+2026-01-29 21:35:53,174 - ERROR - FAILURE: Processing (Exit Code: 2)
+2026-01-29 21:36:14,488 - INFO - Pipeline-Start initiiert.
+2026-01-29 21:36:14,488 - INFO - START: Processing
+2026-01-29 21:52:31,683 - INFO - SUCCESS: Processing (Dauer: 977.20s)
+2026-01-29 21:52:31,684 - INFO - START: Storage
+2026-01-29 21:52:32,369 - INFO - SUCCESS: Storage (Dauer: 0.68s)
+2026-01-29 21:52:32,369 - INFO - Pipeline vollstaendig erfolgreich beendet.
